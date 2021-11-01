@@ -12,14 +12,14 @@
 </h4>
 	
 <h3 align="center">
-	Learn how to set up API Autodiscovery in Anypoint Studio to connect your Mule app from Runtime Manager to API Manager.<br><br>
+In this tutorial, we will learn to set up API Autodiscovery to enable critical features such as security policies.<br><br>
 </h3>
 
 ## Tutorial and Video
 
-For a step by step tutorial navigate to the MuleSoft developer website [here](https://developer.mulesoft.com/tutorials-and-howtos/getting-started/how-to-setup-api-autodiscovery-anypoint-studio/)
+For a step by step tutorial navigate to the MuleSoft developer website [here](https://developer.mulesoft.com/tutorials-and-howtos/getting-started/how-to-setup-api-autodiscovery-anypoint-studio/).
 
-For a video of the tutorial go [here](https://www.youtube.com/watch?v=5Xd5B_twt9w).
+For a video of the tutorial go [here](https://youtu.be/Lce7wAZuKrg).
 
 ## Overview
 
